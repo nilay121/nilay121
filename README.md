@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nilay</h1>
 <h3 align="center">A Continual Learning researcher from India currently pursuing PhD in Biorobotics and AI</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nilay121&label=Profile%20views&color=0e75b6&style=flat" alt="nilay121" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nilay121" alt="nilay121" /></a> </p>
 
 - 🔭 I’m currently working on **Human Brain Project and EBrains Italy Project**
