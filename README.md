@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋, I'm Nilay</h1>
-<h3 align="center">A Continual Learning researcher from India currently pursuing PhD in Biorobotics and AI</h3>
+<h3 align="center">I'm a Postdoctoral Associate at NYU Abu Dhabi, with a Ph.D. in Biorobotics and AI from the Scuola Superiore Sant'Anna, Italy.</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nilay121" alt="nilay121" /></a> </p>
 
-- 🔭 I’m currently working on **Human Brain Project and EBrains Italy Project**
+- 🔭 My research focuses on continual learning, brain-inspired AI, and adaptive robot control. I develop algorithms that let robots keep learning and adapting across their lifetime, the way humans do. My work spans both soft and rigid robotic systems, combining machine learning, robotics, and physics to build more intelligent and autonomous robots.**
 
-- 📫 How to reach me **nilay.kushawaha@santannapisa.it**
-
-- ⚡ Fun fact **I am an introvert :(**
+- 📫 How to reach me **nilay.kushawaha@nyu.edu**, **nilay.kushawaha112@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
